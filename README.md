@@ -1,4 +1,4 @@
-# Venture_Funding_With_Neural_Networks
+# Venture Funding With Neural Networks
 **Module 13 Challenge**
 
 In this challenge, we were asked to test out a neural network with given parameters and then asked to alter those parameters to create two different models to see if we could increase the accuracy or decrease the loss of data.
